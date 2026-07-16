@@ -23,4 +23,3 @@ I know how to build working tools, scrape data and run LLMs on my own hardware. 
 * [📄 Read My Data Engineering CV](https://github.com/IonitaAC/CV-Resume/blob/main/Andrei_Ionita_CV.pdf)
 * [💼 LinkedIn](https://www.linkedin.com/in/andrei-cristian-ioni%C8%9B%C4%83/)
 * [🌐 IAC Media Network](https://www.iacmedianetwork.com)
-* 📧 Email: ionita.andrei.2005@gmail.com
