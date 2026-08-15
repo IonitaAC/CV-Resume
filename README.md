@@ -36,8 +36,11 @@ Built during my internship at METRO Romania. It turns raw product information in
 ## Stack
 
 Python is the main one, with FastAPI, Pydantic, asyncio, and SQLite. SQL on the data side. Docker and Docker Compose for deployment, on Linux, with Git.
+
 On the front end: JavaScript and TypeScript, React, Vite, Tailwind. Dart and Flutter with Riverpod and GoRouter for Tough Love.
+
 For AI: local-hosted model inference through Ollama for entity extraction and classification, prompt design, and AI-assisted development with Claude Code.
+
 Outside code: Adobe Premiere Pro, After Effects, Blender, Canva. Google Ads, Meta Ads Manager, HubSpot, Apollo, Make, YouTube Studio Analytics, SAP, Excel.
 
 ## Background
