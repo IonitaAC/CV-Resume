@@ -31,17 +31,13 @@ Built during my internship at METRO Romania. It turns raw product information in
 ## Projects
 
 **Tough Love** is a cross-platform habit tracker and anti-procrastination app, currently in alpha. Task completion is verified by photo and GPS location, with points, leaderboards, and teams on top. I found the problem, defined the product, and built it alone.
-
 **Bachelor's thesis** on LLM-assisted business process improvement for SMEs in emerging markets, covering how large language models support process maturity assessment. Supervised by Costin Baroiu at ASE Bucharest.
 
 ## Stack
 
 Python is the main one, with FastAPI, Pydantic, asyncio, and SQLite. SQL on the data side. Docker and Docker Compose for deployment, on Linux, with Git.
-
 On the front end: JavaScript and TypeScript, React, Vite, Tailwind. Dart and Flutter with Riverpod and GoRouter for Tough Love.
-
 For AI: local-hosted model inference through Ollama for entity extraction and classification, prompt design, and AI-assisted development with Claude Code.
-
 Outside code: Adobe Premiere Pro, After Effects, Blender, Canva. Google Ads, Meta Ads Manager, HubSpot, Apollo, Make, YouTube Studio Analytics, SAP, Excel.
 
 ## Background
@@ -61,9 +57,3 @@ Business Administration in Foreign Languages (FABIZ), English track, ASE Buchare
 Certifications: SQL Associate (DataCamp), Digital Marketing (HubSpot Academy), AI Fluency Framework and Foundations (Anthropic), AI Essentials (Google).
 
 Romanian native, English C1. Category B driving licence.
-
-## Contact
-
-Email: ionita.andrei.2005@gmail.com
-LinkedIn: https://linkedin.com/in/andrei-cristian-ionita
-Site: https://www.iacmedianetwork.com/
