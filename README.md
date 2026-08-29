@@ -44,7 +44,7 @@ timeline
     2020 - 2026 : YouTube Channel Manager & Content Strategist (Freelance) : 9M+ views & 13.6K subs built
     2023 - 2024 : Volunteer Lead at TNL Giurgiu : Coordinated 20+ volunteers across civic initiatives
     Apr 2026 - May 2026 : Digital Marketing Intern at METRO Romania : Automated campaign brief generation & UX audit
-    Feb 2026 - Present : AI Workflow Lead (IAC Media Network) : Built & deployed 5 automated production tools
+    Feb 2026 - Present : AI Automation Workflow (IAC Media Network) : Built & deployed 5 automated production tools
 ```
 
 ### Al Workflow | Freelance (Operating as IAC Media Network)
@@ -87,7 +87,7 @@ Internship on the B2B digital marketing team, working across website UX/UI, PR, 
 
 ---
 
-### YouTube Channel Manager & Content Strategist | Freelance
+### Social Media Manager & Video Editor | Freelance
 `Dec 2020 - Apr 2026 | Remote`
 
 Five years managing social media channels and audience growth for three YouTube creators. My responsibilities were: editing, thumbnails, titles, publishing, community management and promoting. Thumbnail and title decisions ran through structured A/B testing and cadence was tuned against retention data and time zones.
